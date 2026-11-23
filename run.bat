@@ -1,3 +1,3 @@
-start http://quiz.graff.keenetic.name/
-php -S 192.168.1.128:1234
+start http://localhost:1234/
+php -S localhost:1234
 pause
